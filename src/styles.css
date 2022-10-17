@@ -20,7 +20,7 @@
     padding: 0;
 }  
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 section{
     
@@ -30,7 +30,7 @@ section{
 }
 .project-image{
     margin-top:25px;
-    width:300px;
+    width:250px;
     border-radius: 125px;
 }
 .hamburger{
@@ -66,7 +66,8 @@ section{
 }
 .subtext{
     font-size: 16px;
-    font-weight: 300;
+    
+    font-weight: 400;
 }
 .main{
     background-color: #1c1d25;
@@ -168,7 +169,7 @@ h2{
 }
 .project-card{
     width:300px;
-    height:500px;
+    height:700px;
     box-shadow: 5px 5px 20px grey;
     margin:10px;
 }
